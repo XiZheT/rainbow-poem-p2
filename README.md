@@ -1,2 +1,2 @@
 # rainbow-poem-p2
-demo stolen from demo train
+demo stolen from coding train
